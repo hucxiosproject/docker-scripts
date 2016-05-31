@@ -1,0 +1,8 @@
+.ropeproject
+*.pyc
+pip-selfcheck.json
+.Python
+bin
+include
+lib
+.idea
